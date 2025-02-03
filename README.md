@@ -10,7 +10,7 @@ LinkedIn: [Wiefran Varenzo](https://www.linkedin.com/in/wiefran-varenzo/)
 
 ---
 
-## 📌 Problem Research
+## Problem Research
 
 ### **Analisis Faktor Pengajuan Pinjaman**
 - Mengidentifikasi faktor utama yang mempengaruhi keputusan pengajuan pinjaman.
@@ -23,7 +23,7 @@ LinkedIn: [Wiefran Varenzo](https://www.linkedin.com/in/wiefran-varenzo/)
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 Home Credit menghadapi tantangan dalam **memprediksi risiko kredit** secara akurat untuk memastikan pelanggan yang mampu melunasi pinjaman **tidak ditolak**.
 
@@ -36,7 +36,7 @@ Hal ini penting untuk **pertumbuhan bisnis** dan **keberlanjutan operasional** H
 
 ---
 
-## 🔍 Data Understanding
+## Data Understanding
 
 Dataset terdiri dari:
 - **Application Train**: 122 kolom x 307.511 baris
@@ -48,7 +48,7 @@ Dataset terdiri dari:
 
 ---
 
-## 🛠 Data Cleaning
+## Data Cleaning
 
 Langkah-langkah yang dilakukan:
 1. **Menghapus kolom dengan >30% missing value**.
@@ -61,7 +61,7 @@ Langkah-langkah yang dilakukan:
 
 ---
 
-## ⚙️ Preprocessing
+## Preprocessing
 
 1. **Membagi dataset menjadi data latih (train) dan data uji (test)**.
 2. **Melakukan encoding terhadap fitur kategori**.
@@ -69,7 +69,7 @@ Langkah-langkah yang dilakukan:
 
 ---
 
-## 📈 Data Visualization & Business Insights
+## Data Visualization & Business Insights
 
 ### **Faktor Risiko Berdasarkan Lama Bekerja**
 - **Semakin lama seseorang bekerja, semakin kecil risiko gagal bayar**.
@@ -90,7 +90,7 @@ Langkah-langkah yang dilakukan:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 ### **Model 1 - Faktor Paling Berpengaruh**
 Menggunakan **Random Forest** untuk menentukan faktor paling berpengaruh dalam gagal bayar.
@@ -109,13 +109,13 @@ Menggunakan **Logistic Regression** dan **Random Forest** untuk memprediksi kemu
 
 ---
 
-## 📽️ Video Penjelasan
+## Video Penjelasan
 
 [Google Drive - Home Credit Virtual Internship](https://drive.google.com/drive/folders/1y_Pm0OQhxB8jofwiDdvX1A5-KxjPvfih?usp=sharing)
 
 ---
 
-## 📌 Business Insights & Recommendations
+## Business Insights & Recommendations
 
 1. **Prioritaskan debitur dengan masa kerja lebih lama**
    - Pelanggan dengan masa kerja **>6 tahun** memiliki risiko gagal bayar lebih rendah.
@@ -134,17 +134,15 @@ Menggunakan **Logistic Regression** dan **Random Forest** untuk memprediksi kemu
 
 ---
 
-## 📎 Referensi
+## Referensi
 - Home Credit Dataset
 - Machine Learning Models (Logistic Regression, Random Forest)
 - Data Visualization & Business Insights
 
 ---
 
-## 🚀 Contact
+## Contact
 Untuk informasi lebih lanjut, silakan kunjungi [LinkedIn - Wiefran Varenzo](https://www.linkedin.com/in/wiefran-varenzo/) atau [GitHub Repository](https://github.com/WiefranVarenzo/HomeCredit_Rakamin).
 
----
 
-**README ini memberikan ringkasan proyek Virtual Internship Home Credit di Rakamin, mencakup pemrosesan data, visualisasi, machine learning, dan insight bisnis yang diperoleh.**
 
